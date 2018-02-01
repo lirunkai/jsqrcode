@@ -1,4 +1,4 @@
-import {qrcode} from './lib/qrcode.js';
+import {qrcode} from './dist/qrcode.js';
 
 module.exports = qrcode;
 

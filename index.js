@@ -1,4 +1,5 @@
-import {qrcode} from './dist/qrcode.js';
+
+var qrcode = require('./dist/qrcode.js')
 
 module.exports = qrcode;
 
